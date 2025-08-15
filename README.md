@@ -1,4 +1,4 @@
-# PowerBI Capstone 
+# PowerBI Capstone Project
 
 **Objective:**
 
